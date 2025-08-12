@@ -50,4 +50,13 @@ Giao diện quản lý sinh viên
 
 <img width="443" height="374" alt="{37F56781-C7AE-4213-906F-DD4160548AC5}" src="https://github.com/user-attachments/assets/5c21992b-449b-4650-8c14-fc9fa6870cb7" />
 
-5. 
+<img width="269" height="141" alt="{8CA6DC31-2DBB-4857-86CE-0E596151CC23}" src="https://github.com/user-attachments/assets/3d37ca7e-1436-41a2-90c1-2b9e5ed97ff4" />
+
+5. Mục tiêu của dự án
+
+
+Làm quen với việc kết nối Flask và SQL Server.
+Hiểu cách xây dựng API RESTful trong Python.
+Thực hành tách biệt giữa ứng dụng quản trị và ứng dụng hiển thị dữ liệu.
+Ứng dụng Bootstrap để tạo giao diện web nhanh chóng.
+Có thể mở rộng hệ thống cho nhiều loại dữ liệu khác ngoài sinh viên.
