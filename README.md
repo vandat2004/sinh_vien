@@ -68,6 +68,8 @@ Giao diện quản lý sinh viên
 
 
 
+giao diện app2
+
 <img width="269" height="141" alt="{8CA6DC31-2DBB-4857-86CE-0E596151CC23}" src="https://github.com/user-attachments/assets/3d37ca7e-1436-41a2-90c1-2b9e5ed97ff4" />
 
 5. Mục tiêu của dự án
@@ -82,3 +84,13 @@ Thực hành tách biệt giữa ứng dụng quản trị và ứng dụng hi�
 Ứng dụng Bootstrap để tạo giao diện web nhanh chóng.
 
 Có thể mở rộng hệ thống cho nhiều loại dữ liệu khác ngoài sinh viên.
+
+6. Khả năng mở rộng
+   
+Thêm chức năng phân quyền người dùng (quản trị và khách).
+
+Triển khai API trên server online (Heroku, Railway, Render…).
+
+Bổ sung tìm kiếm nâng cao và phân trang dữ liệu.
+
+Xuất dữ liệu ra file Excel hoặc PDF.
