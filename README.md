@@ -41,3 +41,10 @@ requests → Gọi API từ Ứng dụng B
 Frontend:
 HTML + Bootstrap 5
 CSS tùy chỉnh
+
+4. Giao diện
+
+Giao diện quản lý sinh viên
+<img width="451" height="128" alt="{0B78276D-93D2-4BB8-B24A-33A02F2A3D9F}" src="https://github.com/user-attachments/assets/b00a5e86-2fe0-4439-99d8-a9dfa4111423" />
+
+5. 
