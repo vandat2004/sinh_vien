@@ -64,7 +64,8 @@ Giao diện quản lý sinh viên
 <img width="451" height="128" alt="{0B78276D-93D2-4BB8-B24A-33A02F2A3D9F}" src="https://github.com/user-attachments/assets/b00a5e86-2fe0-4439-99d8-a9dfa4111423" />
 
 
-<img width="443" height="374" alt="{37F56781-C7AE-4213-906F-DD4160548AC5}" src="https://github.com/user-attachments/assets/5c21992b-449b-4650-8c14-fc9fa6870cb7" />
+<img width="719" height="227" alt="{257B8329-1518-4A4B-B292-A5CE350A6E4F}" src="https://github.com/user-attachments/assets/5599293d-380a-4be2-8e3f-a78e3cc3c819" />
+
 
 
 <img width="269" height="141" alt="{8CA6DC31-2DBB-4857-86CE-0E596151CC23}" src="https://github.com/user-attachments/assets/3d37ca7e-1436-41a2-90c1-2b9e5ed97ff4" />
